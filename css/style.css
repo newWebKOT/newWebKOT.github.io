@@ -167,6 +167,7 @@ footer{
 
 .footer-button{
 	display: inline-block;
+	text-decoration: none;
 	border:1px solid #ffffff;
 	background-color:transparent;
 	color: #fff;
